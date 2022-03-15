@@ -1,0 +1,1150 @@
+[
+    {
+      "item": "hospital beds",
+      "class": "Class I"
+    },
+    {
+      "item": "patient hoists",
+      "class": "Class I"
+    },
+    {
+      "item": "walking aids",
+      "class": "Class I"
+    },
+    {
+      "item": "Wheelchairs pushed by hand",
+      "class": "Class I"
+    },
+    {
+      "item": "Electric wheelchair",
+      "class": "Class I"
+    },
+    {
+      "item": "stretchers",
+      "class": "Class I"
+    },
+    {
+      "item": "dental patient chair",
+      "class": "Class I"
+    },
+    {
+      "item": "Dental curing light",
+      "class": "Class I"
+    },
+    {
+      "item": "urine collection bottles",
+      "class": "Class I"
+    },
+    {
+      "item": " incontinence pads",
+      "class": "Class I"
+    },
+    {
+      "item": "non-sterile dressings",
+      "class": "Class I"
+    },
+    {
+      "item": "Pair of glasses",
+      "class": "Class I"
+    },
+    {
+      "item": "Stethoscopes",
+      "class": "Class I"
+    },
+    {
+      "item": "Wound dressings",
+      "class": "Class I"
+    },
+    {
+      "item": "island dressings",
+      "class": "Class I"
+    },
+    {
+      "item": "cotton wool",
+      "class": "Class I"
+    },
+    {
+      "item": "wound strips",
+      "class": "Class I"
+    },
+    {
+      "item": "absorbent pads",
+      "class": "Class I"
+    },
+    {
+      "item": "adhesive bandages e.g plaster",
+      "class": "Class I"
+    },
+    {
+      "item": "Eye occlusion plasters",
+      "class": "Class I"
+    },
+    {
+      "item": "Incision drapes",
+      "class": "Class I"
+    },
+    {
+      "item": "ultrasound gels",
+      "class": "Class I"
+    },
+    {
+      "item": "electrodes for EEG or ECG",
+      "class": "Class I"
+    },
+    {
+      "item": "Empty syringes without needles",
+      "class": "Class I"
+    },
+    {
+      "item": "Dressings for nose bleeds",
+      "class": "Class I"
+    },
+    {
+      "item": "Dental wound dressings not containing animal derived material",
+      "class": "Class I"
+    },
+    {
+      "item": "Dental mirror",
+      "class": "Class I"
+    },
+    {
+      "item": "Dental impression materials",
+      "class": "Class I"
+    },
+    {
+      "item": "Removable or fixed dental prostheses",
+      "class": "Class I"
+    },
+    {
+      "item": "Stomach tubes ",
+      "class": "Class I"
+    },
+    {
+      "item": "Impression trays",
+      "class": "Class I"
+    },
+    {
+      "item": "Non sterile Examination gloves",
+      "class": "Class I"
+    },
+    {
+      "item": "Urinary catheters intended for transient use",
+      "class": "Class I"
+    },
+    {
+      "item": "Embryo transfer catheter",
+      "class": "Class I"
+    },
+    {
+      "item": "insemination catheter",
+      "class": "Class I"
+    },
+    {
+      "item": "scalpel handles",
+      "class": "Class I"
+    },
+    {
+      "item": "Reamers",
+      "class": "Class I"
+    },
+    {
+      "item": "Drill bits",
+      "class": "Class I"
+    },
+    {
+      "item": "Retractors forceps",
+      "class": "Class I"
+    },
+    {
+      "item": "excavators",
+      "class": "Class I"
+    },
+    {
+      "item": "chisels",
+      "class": "Class I"
+    },
+    {
+      "item": "Sternum retractors for transient use",
+      "class": "Class I"
+    },
+    {
+      "item": "Dental Osteotomes",
+      "class": "Class I"
+    },
+    {
+      "item": "tongue depressor",
+      "class": "Class I"
+    },
+    {
+      "item": "Examination lamps",
+      "class": "Class I"
+    },
+    {
+      "item": "Surgical microscopes intended to illuminate the patient’s body in the visible spectrum",
+      "class": "Class I"
+    },
+    {
+      "item": "Dermatoscopes with integrated light sources",
+      "class": "Class I"
+    },
+    {
+      "item": "IV cannula / catheter",
+      "class": "Class IIa"
+    },
+    {
+      "item": "tubing intended for use with an infusion pump",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Syringes for infusion pumps",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Blood transfusion set",
+      "class": "Class IIa"
+    },
+    {
+      "item": "antistatic tubing for anaesthesia",
+      "class": "Class IIa"
+    },
+    {
+      "item": "anaesthesia breathing circuits",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Arterial Venous Fistula (item.V.F.) Set ",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Fridges/freezers specifically intended for storing blood, tissues etc.",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Polymer film dressings",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Non-medicated impregnated gauze dressings",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Short term corrective contact lenses",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Tracheal tubes",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Nasobilliary tubes",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Orthodontic wires",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Fixed dental prostheses",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Fissure sealants",
+      "class": "Class IIa"
+    },
+    {
+      "item": "tracheal tubes connected to a ventilator",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Powered nasal irrigators",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Fibre optics in endoscopes connected to surgical lasers",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Dental aspirator tips",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Endoscopes using a light source in the visible spectrum",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Needles used for suturing",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Syringe",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Needle",
+      "class": "Class IIa"
+    },
+    {
+      "item": "lancet",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Single use scalpels and         ",
+      "class": "Class IIa"
+    },
+    {
+      "item": "single use scalpel blades",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Surgical swabs",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Surgical gloves",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Swabs to sample exudates",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Guidewires or catheters used outside the central circulatory system",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Clamps",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Infusion cannulae",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Skin closure devices",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Temporary filling materials",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Arthroscopy trocars",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Insufflation gases for surgically invasive endoscopic procedures",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Dental Bridges and crowns",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Dental filling materials and pins",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Dental alloys, ceramics and polymers",
+      "class": "Class IIa"
+    },
+    {
+      "item": "muscle stimulators",
+      "class": "Class IIa"
+    },
+    {
+      "item": "external bone growth stimulators",
+      "class": "Class IIa"
+    },
+    {
+      "item": "TENS devices",
+      "class": "Class IIa"
+    },
+    {
+      "item": "eye electromagnets",
+      "class": "Class IIa"
+    },
+    {
+      "item": "electrical acupuncture",
+      "class": "Class IIa"
+    },
+    {
+      "item": "powered dermatomes",
+      "class": "Class IIa"
+    },
+    {
+      "item": "powered drills",
+      "class": "Class IIa"
+    },
+    {
+      "item": "dental hand pieces",
+      "class": "Class IIa"
+    },
+    {
+      "item": "phototherapy for skin treatment and for neonatal care",
+      "class": "Class IIa"
+    },
+    {
+      "item": "external hearing aids",
+      "class": "Class IIa"
+    },
+    {
+      "item": "equipment for physiotherapy",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Sleep apnoea ventilators without monitoring function",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Magnetic resonance equipment",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Pulp testers",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Evoked response stimulators",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Diagnostic ultrasound",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Positron emission tomography and single photon emission computer tomography",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Gamma Camera",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Electrocardiographs",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Electroencephalographs",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Electronic thermometers",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Electronic stethoscopes",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Electronic blood pressure measuring equipmen",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Suction pump",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Feeding pumps",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Jet injectors for vaccination",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Elastomeric pumps or balloon pumps for infusion",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Sterilisers intended to sterilise medical devices in a medical environment",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Digital x-ray detectors for recording images",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Photostimulable phosphor plates",
+      "class": "Class IIa"
+    },
+    {
+      "item": "X-ray film",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Intravascular catheter for short term use made of nondegradable polymer, with nanomaterial embedded in the polymer matrix",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Inhalers for nicotine replacement therapy (nicotine not included)",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Oxygen delivery system with a nasal cannula unless treating life-threatening conditions",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Spacer intended for metered dose inhalers (attached to the inhaler) unless treating lifethreatening conditions",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Salt water used e.g. as nose or throat sprays",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Oral cough treatments achieving their intended purpose in the oral cavity as far as the pharynx",
+      "class": "Class IIa"
+    },
+    {
+      "item": "Blood bags",
+      "class": "Class IIb"
+    },
+    {
+      "item": "hemodialysers",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Long term corrective contact lenses",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Urethral stents",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Tracheal cannulae for tracheostoma for long term use",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Urinary catheters intended for long term use",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Viscoelastic solution for ophthalmic surgery",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Refillable insulin pens",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Analgesia pumps",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Brachytherapy devices",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Vascular closure devices",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Haemostatic foams",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Temporal dialysis catheter",
+      "class": "Class IIb"
+    },
+    {
+      "item": "CVVH catheter",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Artificial ligaments for reinforcemen",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Dental implants and abutments",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Peripheral stents & Plates",
+      "class": "Class IIb"
+    },
+    {
+      "item": "peripheral valves",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Intra-ocular lenses",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Tissue augmentation implants (excluding breasts)",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Peripheral vascular catheters for long-term use",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Peripheral vascular grafts and stents",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Penile implant",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Non-absorbable sutures",
+      "class": "Class IIb"
+    },
+    {
+      "item": "non-biodegreable bone cements",
+      "class": "Class IIb"
+    },
+    {
+      "item": "maxillo-facial implants",
+      "class": "Class IIb"
+    },
+    {
+      "item": "viscoelastic surgical devices intended specifically for ophthalmic anterior segment surgery",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Pedicle screws",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Lung ventillator",
+      "class": "Class IIb"
+    },
+    {
+      "item": "incubators for babies",
+      "class": "Class IIb"
+    },
+    {
+      "item": "blood warmers",
+      "class": "Class IIb"
+    },
+    {
+      "item": "electrically powered heat exchangers (with patients incapable of reacting, communicating /or who are without a sense of feeling)",
+      "class": "Class IIb"
+    },
+    {
+      "item": "high-frequency electrosurgical generators",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Surgical laser",
+      "class": "Class IIb"
+    },
+    {
+      "item": "lithotriptors, surgical ultrasound devices",
+      "class": "Class IIb"
+    },
+    {
+      "item": "high-intensity focused ultrasound (HIFU)",
+      "class": "Class IIb"
+    },
+    {
+      "item": "External feedback systems for active therapeutic devices",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Therapeutic cyclotrons",
+      "class": "Class IIb"
+    },
+    {
+      "item": "linear accelerators",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Blood gas analysers used in open heart surgery",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Diagnostic X-Ray machine",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Computed Tomography Devices",
+      "class": "Class IIb"
+    },
+    {
+      "item": "item mobile app intended to analyse a user’s heartbeat",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Infusion pumps",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Medical gas mixer",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Ventilators",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Anaesthesia machine",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Anaesthetic vaporiser",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Dialysis equipment",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Blood pumps for heart-lung machines",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Hyperbaric chambers",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Pressure regulators for medical gases",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Moisture exchangers in breathing circuits if used on unconscious or non-spontaneously breathing patients",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Oxygen concentrator",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Condoms",
+      "class": "Class IIb"
+    },
+    {
+      "item": "femidoms (internal condoms)",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Contraceptive diaphragms",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Fertility monitors and medical device software intended to be used in contraception",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Contact lens storing solutions",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Cleaners for contact lenses",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Ultraviolet, vibration, or ultrasonic devices for cleaning and disinfecting contact lenses",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Bone fixation screws with a strongly bound nano-coating",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Bone fixation plates with a strongly bound nano-coating",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Spacer intended for metered dose inhalers attached to the inhaler",
+      "class": "Class IIb"
+    },
+    {
+      "item": "Eye drops for hydration",
+      "class": "Class IIb"
+    },
+    {
+      "item": "angioplasty balloon catheters, ",
+      "class": "Class III"
+    },
+    {
+      "item": "stent delivery catheters/systems",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiovasclar guisewire",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiovasclar introducer",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiovascular surgical instruments e.g. electrophysiological catheters, electrodes for electrophysiological diagnosis and ablation",
+      "class": "Class III"
+    },
+    {
+      "item": "Distal protection devices",
+      "class": "Class III"
+    },
+    {
+      "item": "Neuro-endoscopes",
+      "class": "Class III"
+    },
+    {
+      "item": "Brain spatulas",
+      "class": "Class III"
+    },
+    {
+      "item": "Spinal cord retractors",
+      "class": "Class III"
+    },
+    {
+      "item": "Spinal needles",
+      "class": "Class III"
+    },
+    {
+      "item": "Cranium guide for use in craniotomy",
+      "class": "Class III"
+    },
+    {
+      "item": "Dura mater protection",
+      "class": "Class III"
+    },
+    {
+      "item": "Peripherally inserted central catheter (PICC) line",
+      "class": "Class III"
+    },
+    {
+      "item": "Heart valve occluders, sizers and holders",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiovascular drainage cannula",
+      "class": "Class III"
+    },
+    {
+      "item": "Cryo-ablation of the heart or spine",
+      "class": "Class III"
+    },
+    {
+      "item": "Appliers/Forceps for aneurysm clips",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiovascular catheters",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiac output probes",
+      "class": "Class III"
+    },
+    {
+      "item": "Temporary pacemaker leads",
+      "class": "Class III"
+    },
+    {
+      "item": "Thoracic catheters intended to drain the heart, including the pericardium",
+      "class": "Class III"
+    },
+    {
+      "item": " Peripherally inserted central catheter (PICC) line and central line",
+      "class": "Class III"
+    },
+    {
+      "item": "Carotid artery shunts",
+      "class": "Class III"
+    },
+    {
+      "item": "Ablation catheter",
+      "class": "Class III"
+    },
+    {
+      "item": "Heart bypass cannula (aortic perfusion cannula and venous drainage cannula",
+      "class": "Class III"
+    },
+    {
+      "item": "Neurological catheters",
+      "class": "Class III"
+    },
+    {
+      "item": "Cortical electrodes",
+      "class": "Class III"
+    },
+    {
+      "item": "Central venous/vascular catheters",
+      "class": "Class III"
+    },
+    {
+      "item": "Absorbable sutures",
+      "class": "Class III"
+    },
+    {
+      "item": "Prosthetic heart valves",
+      "class": "Class III"
+    },
+    {
+      "item": "Aneurysm clips",
+      "class": "Class III"
+    },
+    {
+      "item": "Vascular prosthesis and stents",
+      "class": "Class III"
+    },
+    {
+      "item": "Central vascular catheters for long-term use",
+      "class": "Class III"
+    },
+    {
+      "item": "Spinal stents",
+      "class": "Class III"
+    },
+    {
+      "item": "CNS electrodes",
+      "class": "Class III"
+    },
+    {
+      "item": "Cardiovascular sutures",
+      "class": "Class III"
+    },
+    {
+      "item": "vena cava filters",
+      "class": "Class III"
+    },
+    {
+      "item": "Septal occlusion devices",
+      "class": "Class III"
+    },
+    {
+      "item": "Intra-aortic balloon pumps",
+      "class": "Class III"
+    },
+    {
+      "item": "External left ventricular assisting devices",
+      "class": "Class III"
+    },
+    {
+      "item": "Biodegrable Bone Cements",
+      "class": "Class III"
+    },
+    {
+      "item": "Elastoviscus fluids for joint movement(eg. hyaluronan of non-animal origin)",
+      "class": "Class III"
+    },
+    {
+      "item": "Rechargeable non-active drug delivery systems",
+      "class": "Class III"
+    },
+    {
+      "item": "Peritoneal dialysis",
+      "class": "Class III"
+    },
+    {
+      "item": "Cochlear implants and accessories",
+      "class": "Class III"
+    },
+    {
+      "item": "Implantable cardiac pacemakers",
+      "class": "Class III"
+    },
+    {
+      "item": "Implantable cardioverter defibrillators (ICD)",
+      "class": "Class III"
+    },
+    {
+      "item": "Leads, electrodes, adaptors for pacemakers and implantable defibrillators",
+      "class": "Class III"
+    },
+    {
+      "item": "Implantable nerve stimulators",
+      "class": "Class III"
+    },
+    {
+      "item": "Implantable bladder stimulators",
+      "class": "Class III"
+    },
+    {
+      "item": "Implantable sphincter stimulators",
+      "class": "Class III"
+    },
+    {
+      "item": "torque wrench for implantable pulse generator",
+      "class": "Class III"
+    },
+    {
+      "item": "implantable cardioverter defibrillator",
+      "class": "Class III"
+    },
+    {
+      "item": "cables for programmer / pacing system analyser",
+      "class": "Class III"
+    },
+    {
+      "item": "magnet for Implantable Pulse Generator / Implantable Cardioverter Generator",
+      "class": "Class III"
+    },
+    {
+      "item": "programmer or an external transmitter intended for activating or controlling the implantable part of the device",
+      "class": "Class III"
+    },
+    {
+      "item": "implantable pacemaker leads",
+      "class": "Class III"
+    },
+    {
+      "item": "Breast implant",
+      "class": "Class III"
+    },
+    {
+      "item": "Breast tissue expanders",
+      "class": "Class III"
+    },
+    {
+      "item": "Surgical meshes for hernia repair",
+      "class": "Class III"
+    },
+    {
+      "item": "Tension free vaginal tape",
+      "class": "Class III"
+    },
+    {
+      "item": "Spinal disc replacement implants",
+      "class": "Class III"
+    },
+    {
+      "item": "Spinal implants: hooks that fix the rod on the spinal column",
+      "class": "Class III"
+    },
+    {
+      "item": "Stems that are implantable in contact with the spinal column",
+      "class": "Class III"
+    },
+    {
+      "item": "Device placed in the disc space",
+      "class": "Class III"
+    },
+    {
+      "item": "Interbody fusion devices",
+      "class": "Class III"
+    },
+    {
+      "item": "Programmer for: implantable Pulse Generator (IPG)",
+      "class": "Class III"
+    },
+    {
+      "item": "Programmer for: implantable Cardioverter Defibrillator (ICD)",
+      "class": "Class III"
+    },
+    {
+      "item": "Programmer for: implantable Loop Recorder",
+      "class": "Class III"
+    },
+    {
+      "item": "Remote monitoring devices for active implantable devices",
+      "class": "Class III"
+    },
+    {
+      "item": "Bone cement with antibiotics",
+      "class": "Class III"
+    },
+    {
+      "item": "Condoms with spermicide",
+      "class": "Class III"
+    },
+    {
+      "item": "Catheters coated with anticoagulants",
+      "class": "Class III"
+    },
+    {
+      "item": "Endodontic materials with antibiotics",
+      "class": "Class III"
+    },
+    {
+      "item": "Ophthalmic irrigation solutions",
+      "class": "Class III"
+    },
+    {
+      "item": "Dressings incorporating an antimicrobial agent",
+      "class": "Class III"
+    },
+    {
+      "item": "Drug eluting stent",
+      "class": "Class III"
+    },
+    {
+      "item": "Surgical sealants containing human serum albumin or thrombin",
+      "class": "Class III"
+    },
+    {
+      "item": "Implants coated with human fibrinogen",
+      "class": "Class III"
+    },
+    {
+      "item": "Blood bags incorporating heparin or other substances as anticoagulant agents",
+      "class": "Class III"
+    },
+    {
+      "item": "IVF cell media with human albumin",
+      "class": "Class III"
+    },
+    {
+      "item": "Intra Uterine Devices (IUD) containing medicinal substances",
+      "class": "Class III"
+    },
+    {
+      "item": "Catheter lubrication gels containing analgesia e.g. lidocaine",
+      "class": "Class III"
+    },
+    {
+      "item": "Tubal ligation devices (e.g. clips or rings)",
+      "class": "Class III"
+    },
+    {
+      "item": "Non-hormonal intrauterine contraceptive devices",
+      "class": "Class III"
+    },
+    {
+      "item": "Animal derived biological heart valves",
+      "class": "Class III"
+    },
+    {
+      "item": "Porcine xenograft dressings",
+      "class": "Class III"
+    },
+    {
+      "item": "Devices made from animal sourced collagen/gelatine",
+      "class": "Class III"
+    },
+    {
+      "item": "Devices utilising hyaluronic acid of animal origin",
+      "class": "Class III"
+    },
+    {
+      "item": "Collagen dermal fillers",
+      "class": "Class III"
+    },
+    {
+      "item": "Bone graft substitutes",
+      "class": "Class III"
+    },
+    {
+      "item": "Bone fillers with nanomaterials",
+      "class": "Class III"
+    },
+    {
+      "item": "Intravascular catheter made of non-degradable polymer, with nano-coating",
+      "class": "Class III"
+    },
+    {
+      "item": "Fat absorber",
+      "class": "Class III"
+    },
+    {
+      "item": "Automated external defibrillator",
+      "class": "Class III"
+    },
+    {
+      "item": "Semiautomatic external defibrillator",
+      "class": "Class III"
+    },
+    {
+      "item": "Automated closed loop insulin delivery system",
+      "class": "Class III"
+    },
+    {
+      "item": "Automated external infusion pumps with integrated sensors",
+      "class": "Class III"
+    }
+   ]
