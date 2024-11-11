@@ -66,8 +66,8 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light p-0">
       <div>
-        <a class="navbar-brand p-0 " href="ar-home.html"><img class="logo-d" src="images/advice-logo-2.png" alt="Advice"> </a>
-        <p style="text-align: center;" class="p-logo" >  التميز عادتنا</p>
+        <a class="navbar-brand p-0 " href="#home"><img class="logo-d" src="images/Advicelogonew.webp" alt="Advice"> </a>
+     
 
       </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -79,7 +79,7 @@
           
           <li class="nav-item dropdown sa-right2 ">
             <a style=" color: #15192B;
-            font-size: 18px;" class="nav-link dropdown-toggle text-dark active text-capitalize" href="Ar-home.html" data-toggle="dropdown"
+            font-size: 18px;" class="nav-link dropdown-toggle text-dark active text-capitalize" href="#home" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false"> الصفحة الرئيسية  </a>
             <div class="dropdown-menu sa-right2">
               <a class="dropdown-item text-color" href="Ar-home.html#How-to-use"> 
@@ -89,7 +89,8 @@
                 آلية العمل
               </a>
               <a class="dropdown-item text-color" href="Ar-home.html#FAQs">أسئلة وأجوبة</a>
-              <a class="dropdown-item text-color" href="Ar-home.html#Testimonials">آراء بعض عملائنا</a>
+              <a class="dropdown-item text-color" href="Ar-home.html#Testimonials">
+                آراء بعض عملائنا</a>
               <a class="dropdown-item text-color" href="Ar-home.html#about">من نحن</a>
             </div>
           </li>
@@ -98,22 +99,20 @@
             font-size: 18px;" class="nav-link text-dark text-capitalize dropdown-toggle " href="Ar-services.html" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false"> خدماتنا </a>
             <div class="dropdown-menu sa-right2">
-              <a class="dropdown-item text-color" href="Ar-services.html#classification">تصنيف
-              </a>
-              <a class="dropdown-item text-color" href="Ar-services.html#appointment">شؤون تنظيمية</a>
-              <a class="dropdown-item text-color" href="Ar-services.html#marketing">قم بتسويق منتجك</a>
+
+
+              <a class="dropdown-item text-color" href="#classification">مستشفى</a> <a class="dropdown-item text-color" href="#appointment">
+                 جراحات اليوم الواحد</a> 
+                 <a class="dropdown-item text-color" href="#appointment"> عيادات خارجية</a> <a class="dropdown-item text-color" href="#appointment">معمل</a> <a class="dropdown-item text-color" href="#appointment">فحوصات تشخيصية</a>
+              <a class="dropdown-item text-color" href="#marketing">تسويق</a>
             </div>
           </li>
-
           <li class="nav-item">
-            <a  class="nav-link text-dark text-capitalize" href="services.html">English
+            <a  class="nav-link text-dark text-capitalize" href="index.html">English
               <img style="max-height: 30px; max-width: 30px; " src="/images/united-kingdom.png" alt="">
 
             </a>
-          
           </li>
-
-
          
         </ul>
         <a style="font-weight: 800;" href="#appointment" class="btn btn-outline-primary text-white ml-3">
@@ -143,8 +142,7 @@
         <ul class="list-inline">
           <li class="list-inline-item mx-1 my-2">
             <a style="font-weight: 800;" href="#classification" class="btn btn-primary">
-              صنف منتجك
-
+              اختر الخدمة المطلوبة
 
             </a>
           </li>
@@ -156,7 +154,7 @@
         </ul>
       </div>
       <div class="col-lg-6">
-        <img src="images/FDA.png" class="img-fluid w-100 saikoimg  rounded-lg" alt="app-interface" data-aos="fade-left" data-aos-duration="3000">
+        <img src="images/herohq.webp" class="img-fluid w-100  " alt="app-interface" data-aos="fade-left" data-aos-duration="1000">
       </div>
     </div>
   </div>
@@ -251,96 +249,17 @@
     <div visibleid="select1">
 			<select name="Service">
 				<option value="">الرجاء تحديد الخدمة</option>
-				<option value="Registration-Services" makevisible="sub-select1">خدمات التسجيل</option>
-				<option value="Importation-Services" makevisible="sub-select2">خدمات الاستيراد</option>
-				<option value="Customs-Clearance-Services" makevisible="sub-select3">خدمات التخليص الجمركي</option>
-				<option value="Exportation-Services" makevisible="sub-select4">خدمات التصدير</option>
-				<option value="Local-Factory-Services" makevisible="sub-select5">خدمات المصانع المحلية</option>
+        <option value="hospital">مستشفى</option>
+        <option value="day-surgeries">جراحات اليوم الواحد</option>
+        <option value="outpatient-clinics">عيادات خارجية</option>
+        <option value="laboratory">معمل</option>
+        <option value="diagnostic-tests">فحوصات تشخيصية</option>
 				<option value="Other-Services" makevisible="sub-select6">خدمات أخرى</option>
 				
 			</select>
 		</div>
 
-		<!-- el valor de parent debe ser el visibleId del select del cual depende -->
-		<div parent="select1" style="display: block;">
-		
-			<div visibleid="sub-select1" style="display: none;">
-				<select name="subSelect 1">
-                    <option value="">الرجاء تحديد خدمة التسجيل</option>
-                    <option value="local-medical-device">جهاز طبي محلي</option>
-                    <option value="imported-medical-device">جهاز طبي مستورد</option>
-                    <option value="local-IVD">IVD المحلي</option>
-                    <option value="imported-IVD">استيراد IVD</option>
-				</select>
-			</div>
 
-
-      
-		
-			<div visibleid="sub-select2" style="display: none;">
-				<select name="subSelect 2">
-					<option value="">الرجاء تحديد خدمة الاستيراد</option>
-					<option value="company-importation-register">سجل استيراد الشركة</option>
-					<option value="Importation-approvals-for-medical-devices">موافقات استيراد الأجهزة الطبية</option>
-					<option value="Importation-approvals-for-IVD">موافقات الاستيراد الخاصة بـ IVD</option>
-					<option value="Importation-approvals-for-raw-material">موافقات استيراد المواد الخام</option>
-				
-			
-			
-
-            
-		
-			
-				</select>
-                    
-					
-				
-			</div>
-			<div visibleid="sub-select3" style="display: none;">
-               
-				<select name="subSelect 3">
-                    <option value="">الرجاء اختيار خدمة التخليص الجمركي</option>
-					<option value="Customs-clearance-for-medical-devices">التخليص الجمركي للأجهزة الطبية</option>
-					<option value="Customs-clearance-for-IVD">التخليص الجمركي لـ IVD</option>
-					<option value="Customs-clearance-for-raw-materials">التخليص الجمركي للمواد الأولية</option>
-					<option value="final-release">الإصدار النهائي</option>
-                    
-					
-				</select>
-			</div>
-		
-			<div visibleid="sub-select4" style="display: none;">
-				<select name="subSelect 4">
-					<option value="">خدمات التصدير</option>
-					<option value="Exportation-approvals-of-medical-devices">موافقات تصدير الأجهزة الطبية</option>
-					<option value="Exportation-approvals-of-IVD">موافقات تصدير IVD</option>
-				</select>
-			</div>
-		
-			<div visibleid="sub-select5" style="display: none;">
-				<select name="subSelect 5">
-					<option value="">حدد خدمة المصنع المحلي</option>
-					<option value="Issuance-of-CE-certificate">اصدار شهادة CE</option>
-					<option value="ISO-certificate">شهادة الأيزو</option>
-					<option value="free-sale-certificate">شهادة حرية بيع</option>
-					<option value="factory-licenses">تراخيص المصنع</option>
-				</select>
-			</div>
-
-          
-		
-			<div visibleid="sub-select6" style="display: none;">
-				<select name="subSelect 6">
-					<option value="">الرجاء تحديد خدمة</option>
-					<option value="Pricing">التسعير</option>
-					<option value="Vigilance">اليقظة</option>
-					<option value="Contacting-the-importer-foreign-companies">الاتصال بالشركات الأجنبية المستوردة</option>
-					<option value="Providing-Suggestions">تقديم الاقتراحات</option>
-				</select>
-			</div>
-
-			
-  </div>
 
 		</div>
      
@@ -427,8 +346,7 @@
           <p class="text-light mb-4 sa-right " >
             
            
-            نحن منظمة متخصصة في مجال التسويق والشؤون التنظيمية للأجهزة الطبية وكذلك الكواشف التشخيصية. نساعد المصانع والشركات في الحصول على تراخيص التسجيل والموافقات على الاستيراد والتصدير
-            </p>
+            نحن فريق يمكنه مساعدة مؤسسات الرعاية الصحية على تقديم خدمات ذات جودة أفضل.            </p>
           </p>
          
         </div>
@@ -461,7 +379,7 @@
   <section class="py-4">
     <div class="container">
       <p class="mb-0 text-light text-center ">Copyright &copy;
-        Advice 2022
+        Advice 2024
        
        </p>
     </div>
